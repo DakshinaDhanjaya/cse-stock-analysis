@@ -1,0 +1,6 @@
+{
+  "name": "CSE Fundamental Analysis",
+  "description": "Dashboard for analyzing Colombo Stock Exchange (CSE) listed companies using live market data and Gemini-powered report extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
